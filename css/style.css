@@ -101,7 +101,7 @@ section{
         margin:0;
     }
     #iconvalorant{
-        width: 250px;
+        width: 200px;
         margin:auto;
         padding: 15px;
         margin-bottom: 0px;
@@ -120,4 +120,5 @@ section{
         margin-right: -16px;
         margin-bottom: 24px;
         margin-top: 25px;
+        }
 }
